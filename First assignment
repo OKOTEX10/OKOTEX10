@@ -1,0 +1,28 @@
+NAME: Azu Okorie Ugwu
+2021/HND/33645/CS
+Assignment on COM 423
+EXPERTS SYSTEM/ MACHINE LEARNING
+           Question
+1. What's the AI equivalent of the five sense organs?
+            Answer
+EYE
+Computer Vision: This AI field draws inspiration from the human eye. It equips machines with the ability to interpret and comprehend visual data from their surroundings. Applications include facial recognition, object detection, and image analysis.
+EAR
+Speech Recognition: Inspired by human hearing, speech recognition technology allows computers to transform spoken language into text. Familiar voice assistants like Siri and Alexa rely on this technology.
+SKIN
+Haptic Technology: Inspired by the sense of touch, AI-driven haptic feedback enables devices to provide tactile sensations to users. This technology finds common use in virtual reality controllers and touchscreen devices, offering a lifelike sense of touch.
+NOSE
+Olfactory Sensors: While less common, efforts are underway to develop AI systems that mimic the sense of smell using chemical sensors. Such technology can find applications in quality control and environmental monitoring.
+TONGUE
+Gustatory AI: AI systems can even simulate the sense of taste. This is put to use in areas like assessing food quality and profiling flavors.
+2. Distinguishing Knowledge Base from Database
+Database:
+A database primarily serves as a structured repository for data storage and retrieval. It organizes data, often in tables, ensuring efficient management and retrieval of information.
+Knowledge Base:
+In contrast, a knowledge base is tailored for storing information and knowledge in a more human-readable and comprehensible format. It encompasses a wide array of information, including text, documents, articles, and potentially multimedia content. Its primary role is to provide information and knowledge to users in a user-friendly manner.
+3. Search for online medical expert system that will be able to run diagnostic tests.
+Answer
+CODY.MD
+CodyMD is a research project aimed at creating AI Co-Doctors that are both safe and efficient. Please note that CodyMD does not offer medical advice or healthcare services and should always be utilized in conjunction with a qualified healthcare professional. It is important to review the Terms of Use before proceeding.
+WebMD
+WebMD is a user-friendly online platform that serves as a self-service symptom checker thoughtfully developed by medical professionals. It caters to individuals seeking to expand their understanding of their symptoms, identify potential underlying reasons for these symptoms, receive recommendations on the appropriate steps to take, or simply equip themselves with more knowledge ahead of their medical consultations."
